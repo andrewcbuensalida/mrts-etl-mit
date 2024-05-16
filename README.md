@@ -8,4 +8,4 @@ In the kind of business table, it will have columns id, and kind of business.
 In the NAICS code-kind of business association table, columns will be naic id, and kind of business id.
 There are some data that have a string (S) instead of a proper sales amount, and some are empty. Just don't insert these sales. 
 Insert the data from the csv into sql.
-Verify the data is in sql by checking mysql workbench, and writing python test scripts.
+Verify the data is in sql by checking mysql workbench, and writing python test scripts. To run the test script, in the terminal, enter python test.py.

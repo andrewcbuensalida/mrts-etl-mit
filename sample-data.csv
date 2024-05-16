@@ -1,4 +1,7 @@
-first_name,last_name,email
-John,Doe,john@gmail.com
-Kelly,Smith,ks@gmail.com
-Roger,Moore,moore@gmail.com
+first_name,last_name,email,phone
+John,Doe,john@gmail.com,1234567890
+Kelly,Smith,ks@gmail.com,3444583989
+Roger,Moore,moore@gmail.com,8876567890
+Edward,Smith,esmith@gmail.com,2222223332
+Lenny,Warren,coollenny@yahoo.com,3333333333
+Trish,Lopez,lolo@gmail.com,3432223833
